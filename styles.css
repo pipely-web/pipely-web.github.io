@@ -134,9 +134,10 @@ button{
 }
 .divTableCell, .divTableHead {
 	border: 0px solid #fff;
+  max-width: 300px;
 	display: table-cell;
 	padding: 30px 20px;
-    vertical-align: middle;
+  vertical-align: middle;
 }
 .divTableHeading {
 	background-color: #EEE;
